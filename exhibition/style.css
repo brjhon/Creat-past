@@ -31,12 +31,22 @@ background: #23232e;
 height: 12vh;
 }
 
+.sto{
+    height: 100vh;
+}
+
+
 .nav-list{
     list-style: none;
     display: flex;
 }
 
 .nav-list li{
+ margin-top: 15px;
  letter-spacing: 3px;
  margin-left: 32px;
+}
+
+body{
+    overflow-x: hidden;
 }
