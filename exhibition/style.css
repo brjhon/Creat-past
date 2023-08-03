@@ -31,10 +31,16 @@ background: #23232e;
 height: 12vh;
 }
 
-.sto{
+/* .sto{
     height: 100vh;
 }
 
+#cara-carro{
+    display: flex;
+    height: 160vh;
+    width: 230vh;
+
+} */
 
 .nav-list{
     list-style: none;
