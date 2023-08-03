@@ -51,3 +51,15 @@ body{
     margin: 1%;
 
   }
+
+  .boxtrop {
+    width: 70vw;
+    height: 30vh;
+    display: flex;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 30px 40px #000000cc;
+    border-radius: 13px;
+    margin: 1%;
+  }
