@@ -45,19 +45,18 @@ height: 12vh;
  margin-left: 32px;
 }
 
-
-#teste{
-    width: 50vh;
-    height: 10rem;
-    background-color: aqua;
-    margin-left: 5vw;
-    margin-top: 5vh;
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
 
-#baixo{
-    width: 50vh;
-    height: 10rem;
-    background-color: rgb(0, 55, 255);
-    margin-left: 5vw;
-    margin-top: 5vh;
+#wall1{
+    padding: 0.5cm;
+    /* margin-left: 1cm; */
+}
+
+#wall2{
+    padding: 0.5cm;
+    /* margin-left: 1cm; */
 }
